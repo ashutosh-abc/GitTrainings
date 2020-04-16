@@ -1,4 +1,8 @@
 Commit 1
 Commit 3 on master
 Commit 5 on master
+<<<<<<< HEAD
 Commit cONFLICT rEBASE
+=======
+Commit 6 on rebase
+>>>>>>> Push Trainings
