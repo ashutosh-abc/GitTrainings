@@ -2,7 +2,11 @@ Commit 1
 Commit 3 on master
 Commit 5 on master
 <<<<<<< HEAD
+<<<<<<< HEAD
 Commit cONFLICT rEBASE
 =======
 Commit 6 on rebase
 >>>>>>> Push Trainings
+=======
+Commit 6 on rebase
+>>>>>>> d7dfea12124f96524d90789fe7adf81b6ecb6582
